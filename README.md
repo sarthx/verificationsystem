@@ -10,11 +10,11 @@ Basic Setup
 
 This line is used to start the project
 
-```Django admin start-project GFG```
+```Django admin start-project verification```
 
 Let’s create the app section in the project
 
-```Python manage.py startapp authentication```
+```Python manage.py startapp registration```
 
 Start the server
 
